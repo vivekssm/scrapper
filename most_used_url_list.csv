@@ -1,0 +1,29 @@
+extension,country,indeed_url,glassdoor_url
+ar,Argentina,https://ar.indeed.com,https://www.glassdoor.co.ar
+au,Australia,https://au.indeed.com,https://www.glassdoor.co.au
+ca,Canada,https://ca.indeed.com,https://www.glassdoor.co.ca
+cn,China,https://cn.indeed.com,https://www.glassdoor.co.cn
+eg,Egypt,https://eg.indeed.com,https://www.glassdoor.co.eg
+fr,France,https://fr.indeed.com,https://www.glassdoor.co.fr
+de,Germany,https://de.indeed.com,https://www.glassdoor.co.de
+hk,Hong Kong,https://hk.indeed.com,https://www.glassdoor.co.hk
+in,India,https://in.indeed.com,https://www.glassdoor.co.in
+il,Israel,https://il.indeed.com,https://www.glassdoor.co.il
+it,Italy,https://it.indeed.com,https://www.glassdoor.co.it
+jp,Japan,https://jp.indeed.com,https://www.glassdoor.co.jp
+my,Malaysia,https://my.indeed.com,https://www.glassdoor.co.my
+nl,Netherlands,https://nl.indeed.com,https://www.glassdoor.co.nl
+nz,New Zealand,https://nz.indeed.com,https://www.glassdoor.co.nz
+pk,Pakistan,https://pk.indeed.com,https://www.glassdoor.co.pk
+ru,Russia,https://ru.indeed.com,https://www.glassdoor.co.ru
+sa,Saudi Arabia,https://sa.indeed.com,https://www.glassdoor.co.sa
+sg,Singapore,https://sg.indeed.com,https://www.glassdoor.co.sg
+za,South Africa,https://za.indeed.com,https://www.glassdoor.co.za
+kr,South Korea,https://kr.indeed.com,https://www.glassdoor.co.kr
+es,Spain,https://es.indeed.com,https://www.glassdoor.co.es
+se,Sweden,https://se.indeed.com,https://www.glassdoor.co.se
+ch,Switzerland,https://ch.indeed.com,https://www.glassdoor.co.ch
+ua,Ukraine,https://ua.indeed.com,https://www.glassdoor.co.ua
+ae,United Arab Emirates,https://ae.indeed.com,https://www.glassdoor.co.ae
+uk,United Kingdom,https://uk.indeed.com,https://www.glassdoor.co.uk
+us,United States,https://us.indeed.com,https://www.glassdoor.co.us
